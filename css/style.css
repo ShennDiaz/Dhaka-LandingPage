@@ -1890,7 +1890,7 @@ footer.dark-black .widget_recent_entries ul li{
 
   }
 /****** SLIDERS ********/
-.wavy { background:url(../img/wavy.svg); background-size: cover; }
+.wavy { background:url(../img/wavy.svg); background-size: cover;   background-position: center;}
 
 .slider-img-1 { background:
             linear-gradient(135deg,
